@@ -1,4 +1,4 @@
-# Nextra Docs Template 
+# Nextra v3 Docs Template
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
 
